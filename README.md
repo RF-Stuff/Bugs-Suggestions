@@ -4,4 +4,4 @@
 
 [Suggestions](../../projects/2)
 
-[Issues](../../issues)
+[Add bugs & suggestions here](../../issues)
