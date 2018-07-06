@@ -1,7 +1,8 @@
-**Requirements**:
-- [ ] I have checked the repository for previous issues of this type
-- [ ] I have included a detailed description
-- [ ] This is one issue, not multiple issues
-<!---
-Type an x between the boxes to signal you have done this
+<!--- 
+
+Before submitting your suggestion / bug, please verify these following contraints:
+ - There are no other suggestions / bugs in this repository that already contain this suggestion / bug
+ - There is a detailed description attached and it is readable
+ - This is one suggestion, not multiple. Please create multiple issues instead, it is easier for us.
+
 -->
